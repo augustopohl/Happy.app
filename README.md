@@ -13,5 +13,6 @@ The app's purpose is to make it easier for people to find local orphanages to vi
 * CSS3
 * Handlebars
 
-To start the app : npm start
-The server port is set to 5510
+<p>To start the app : npm start</p>
+
+<p>The server port is set to 5510</p>
